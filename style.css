@@ -1,0 +1,27 @@
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    }
+
+    body {
+      font-family: 'Oswald', sans-serif;
+      flex: auto; align-self: center;
+      background-color: lightgray;
+      max-width: 550px;
+margin: 0 auto;
+text-align: left;
+font-size: 20px;
+    
+    }
+
+    
+   
+    
